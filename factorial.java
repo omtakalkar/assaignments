@@ -16,4 +16,4 @@ public class factOfNumbers
 		System.out.println(fact);
 	
 	}
-}
+}}
